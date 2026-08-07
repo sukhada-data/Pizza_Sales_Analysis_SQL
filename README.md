@@ -83,6 +83,7 @@ This analysis answers several business-focused questions, including:
 * Generated business recommendations for improving sales and profitability.
 
 ---
+<img width="1392" height="787" alt="image" src="https://github.com/user-attachments/assets/a83f3e5b-3464-46ba-98bf-afe9813228ba" />
 
 ## Repository Structure
 
