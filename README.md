@@ -118,8 +118,7 @@ sql-pizza-sales-analysis/
 
 ### Revenue Analysis
 
-
-<img width="1360" height="762" alt="image" src="https://github.com/user-attachments/assets/84eb06ab-9953-4bd0-9690-840ae80eb6e0" />
+<img width="1362" height="766" alt="image" src="https://github.com/user-attachments/assets/91d6efd0-6026-47c2-b32c-5e29462d8e71" />
 
 
 ### Top Selling Pizzas
