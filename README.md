@@ -123,17 +123,13 @@ sql-pizza-sales-analysis/
 
 ### Top Selling Pizzas
 
-```markdown
-<img width="1363" height="775" alt="image" src="https://github.com/user-attachments/assets/16a9f6da-d2ef-4ffe-8151-02beeb124297" />
+<img width="1361" height="773" alt="image" src="https://github.com/user-attachments/assets/afbc8686-5dd0-4ebe-931f-c82996bdcd3e" />
 
-```
 
 ### Sales Trend
 
-```markdown
-<img width="1361" height="763" alt="image" src="https://github.com/user-attachments/assets/c51ab7ea-e66a-4473-8ab4-85332d007d46" />
+<img width="1362" height="768" alt="image" src="https://github.com/user-attachments/assets/7ba1a2be-cff7-43d9-b8ff-e4d13c30be48" />
 
-```
 
 ---
 
