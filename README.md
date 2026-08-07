@@ -115,46 +115,27 @@ sql-pizza-sales-analysis/
 
 ##  Query Results & Visualizations
 
-Store screenshots of SQL query outputs, charts, dashboards, and ER diagrams inside the **Images** folder.
-
-### Entity Relationship Diagram
-
-```markdown
-![ER Diagram](Images/er_diagram.png)
-```
 
 ### Revenue Analysis
 
 ```markdown
-![Revenue Analysis](Images/revenue_analysis.png)
+<img width="1360" height="762" alt="image" src="https://github.com/user-attachments/assets/84eb06ab-9953-4bd0-9690-840ae80eb6e0" />
+
 ```
 
 ### Top Selling Pizzas
 
 ```markdown
-![Top Selling Pizzas](Images/top_pizzas.png)
+<img width="1363" height="775" alt="image" src="https://github.com/user-attachments/assets/16a9f6da-d2ef-4ffe-8151-02beeb124297" />
+
 ```
 
 ### Sales Trend
 
 ```markdown
-![Sales Trend](Images/sales_trend.png)
+<img width="1361" height="763" alt="image" src="https://github.com/user-attachments/assets/c51ab7ea-e66a-4473-8ab4-85332d007d46" />
+
 ```
-
----
-
-## Getting Started
-
-1. Clone this repository.
-
-```bash
-git clone https://github.com/your-username/sql-pizza-sales-analysis.git
-```
-
-2. Import the CSV datasets into MySQL.
-3. Execute the SQL queries in `pizza_sales_queries.sql`.
-4. Review the generated query outputs.
-5. Explore the report and presentation for detailed business insights and recommendations.
 
 ---
 
